@@ -1,7 +1,7 @@
 # taarag.github.io
 # 👩‍💻 Taara G – Data Science Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]((https://www.linkedin.com/in/taara-g-19981231a/)](https://www.linkedin.com/in/taara-g-19981231a/)](https://www.linkedin.com/in/taara-g-19981231a/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/taara-g-19981231a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/Taara-g)  
 📧 taarag03@gmail.com |  Kochi, India  
 
